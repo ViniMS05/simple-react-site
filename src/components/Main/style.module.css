@@ -1,0 +1,14 @@
+.main {
+    flex: 1;
+
+    padding: 2rem 0.5rem;
+}
+
+.main h2, .main p {
+    color: #000;
+    margin-bottom: 0.5rem;
+}
+
+.main h2 {
+    font-size: 2rem;
+}
